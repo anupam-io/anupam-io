@@ -1,6 +1,6 @@
 # 🕵️‍♂️ About Me:
  
- - Backend Engineer @ [Range Security: The blockchain security and intelligence platform](range.org)
+ - Backend Engineer @ [Range Security: The blockchain security and intelligence platform](https://range.org/)
  - Interest in Postgres, ELK and Distributed Processing 
  - Automation enthusiast focused on optimizing processes and enhancing efficiency
  - Code purist committed to writing clean, maintainable code
