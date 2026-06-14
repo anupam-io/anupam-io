@@ -1,3 +1,1 @@
-- Backend/full-stack engineer at [Range Security](https://range.org) — the stablecoin risk & intelligence platform · Bengaluru · IITGN
-- Favourite tools: Postgres · Redis · Elasticsearch · Next.js · Kubernetes · Ansible · Cloudflare. Allergic to messy code.
-- Infra: self-hosted.
+ I work on [Range](https://range.org), a stablecoin risk and intelligence platform, where I build the backend systems: data pipelines, alerting, and cross-chain integrations.
